@@ -47,6 +47,7 @@ jupyter_server_terminals
 jupyterlab
 jupyterlab-pygments
 jupyterlab_server
+jupyter_server_proxy
 MarkupSafe
 matplotlib-inline
 mistune
