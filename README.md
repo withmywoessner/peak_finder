@@ -1,7 +1,7 @@
 # EEG Peak Finder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/withmywoessner/peak_finder/HEAD?labpath=src%2Fepoch_finder.ipynb)
 
-This Jupyter project, written by Jacob Woessner, is designed to find peaks in EEG data. 
+This Jupyter project is designed to find peaks in EEG data. 
 ## Requirements
 
 In order to run this project, you will need to have the following installed:
@@ -10,7 +10,6 @@ In order to run this project, you will need to have the following installed:
 - Jupyter Notebook
 - NumPy
 - Pandas
-- Matplotlib (for visualization)
 - Dash
 - Plotly
 
