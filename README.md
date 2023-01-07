@@ -1,6 +1,5 @@
 # EEG Peak Finder
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/withmywoessner/peak_finder/HEAD?labpath=src%2Fepoch_finder.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/withmywoessner/peak_finder/HEAD?labpath=src%2Fepoch_finder.ipynb)
 
 This Jupyter project, written by Jacob Woessner, is designed to find peaks in EEG data. 
 ## Requirements
